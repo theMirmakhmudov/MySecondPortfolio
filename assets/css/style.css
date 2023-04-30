@@ -674,12 +674,12 @@ section {
 
 #portfolio .portfolio-item .portfolio-info h4 {
   font-size: 20px;
-  color: #fff;
+  color: #444;
   font-weight: 600;
 }
 
 #portfolio .portfolio-item .portfolio-info p {
-  color: #fff;
+  color: #444;
   font-size: 15px;
   margin-bottom: 0;
 }
