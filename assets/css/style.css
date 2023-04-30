@@ -934,3 +934,8 @@ iframe{
   margin: 0px 80px;
   border-radius: 30px;
 }
+@media only screen and (max-width:768px){
+  iframe{
+    margin: 0;
+  }
+}
