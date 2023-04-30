@@ -454,6 +454,12 @@ section {
     padding-top: 15px;
   }
 }
+#about .about-container .background {
+  background: url(jhep-coursera-course4-removebg-preview.png);
+  background-size: 70% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+}
 
 #about .about-container p {
   line-height: 26px;
