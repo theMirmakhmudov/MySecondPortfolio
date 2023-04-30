@@ -930,5 +930,7 @@ section {
 }
 
 iframe{
-  width: 100%;
+  width: 90%;
+  margin: 0px 80px;
+  border-radius: 30px;
 }
